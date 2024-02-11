@@ -1,8 +1,8 @@
 ---
 title: "Schrödinger's Error"
 description: "meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/posts/01.jpg"
+date: 2024-02-04T05:00:00Z
+image: "/images/posts/01.webp"
 categories: ["programming"]
 authors: ["Rouven Reuter"]
 tags: ["rust", "python"]
